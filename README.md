@@ -1,28 +1,4 @@
-<h1 align="center"><i><u>Disrust</u></i></h1>
 
----
-
-![Peek 2023-01-17 17-34](https://user-images.githubusercontent.com/96934612/213059486-3947adba-2700-4f14-bcfc-adf5ed5e4a83.gif)
-
-# What is this ?
-Disrust is a TUI discord client written entirely in glorious Rust. It works*. 
-
-The app is not fully feature complete. It's missing a lot of discord features, but the basics like navigating between servers, viewing channels, sending messages, etc are there. I might eventually come back to clean up code and make it fancier. 
-
-It's not fully complete because I really badly wanted to move on to my "infinite storage glitch" project idea and because every 10 minutes spent on doing anything UI related is shaving off at least a year of my lifespan each time.
-
-I made it mostly to get better at Rust and because it's fun to work on a larger project for once. 
-
----
-
-# Now, you might be asking yourself:
-
-<details>
-<summary><b>But is this legal ?</b></summary>
-<b>No.</b>
-
-The use of this app is very much not kosher according to discord's TOS. I do not recommend using it seriously.
-</details>
 
 # Installation
 - You need to have Rust and cargo installed in order to compile the code
